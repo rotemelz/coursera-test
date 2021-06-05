@@ -8,7 +8,7 @@ git config user.name rotemelz
 git config user.email "rotem.elzin@gmail.com"
 
 git commit -a -m "try 4"
-git status 
+git status
 git push
 
 browser-sync start --server --directory --files "*"
